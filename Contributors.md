@@ -7,7 +7,7 @@
 -[meenakshiruia] (https://github.com/meenakshiruia)
 -[RomaniukNatalia] (https://github.com/RomaniukNatalia)
 -[stevee14]
--[zinx] (my contri)
+-[zinx] (my contribution)
 -[Dyno-man] (https://github.com/Dyno-man)
 -[Sonum Jaggi] (http://github.com/sonum02)
 - [addpd](https://github.com/addpd)
